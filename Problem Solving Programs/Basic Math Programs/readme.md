@@ -1,0 +1,1 @@
+This is a folder containing simple and basic mathematical logic problems. It is always good to start with these.
